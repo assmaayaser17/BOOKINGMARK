@@ -1,0 +1,55 @@
+.main-class {
+  
+    background-color:#f7ecde;
+}
+.container {
+    flex-direction: column;
+}
+
+
+h1 {
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #352e28 !important;
+    isolation: isolate;
+   
+}
+.body h2 {
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+   
+}
+
+.btn-submit {
+    --bs-btn-color: #fff !important;
+    --bs-btn-bg: #d1512d !important;
+    --bs-btn-border-color: #d1512d !important;
+    --bs-btn-hover-color: #fff !important ;
+    --bs-btn-hover-bg: #bb4120 !important;
+    --bs-btn-hover-border-color: #a03315 !important;
+}
+.btn-reset{
+    --bs-btn-color: #fff !important;
+    --bs-btn-bg: #d1512d !important;
+    --bs-btn-border-color: #d1512d !important;
+    --bs-btn-hover-color: #fff !important ;
+    --bs-btn-hover-bg: #bb4120 !important;
+    --bs-btn-hover-border-color: #a03315 !important;
+}
+.btn-visit {
+    --bs-btn-color: #fff !important;
+    --bs-btn-bg: #9eb23b !important;
+    --bs-btn-border-color: #9eb23b !important;
+    --bs-btn-hover-color: #fff !important;
+    --bs-btn-hover-bg: #8a9e23 !important;
+    --bs-btn-hover-border-color: #6e8018 !important;
+}
+.btn-delete {
+    --bs-btn-color: #fff !important;
+    --bs-btn-bg: #eb1d36 !important;
+    --bs-btn-border-color: #eb1d36 !important;
+    --bs-btn-hover-color: #fff !important;
+    --bs-btn-hover-bg: #d30820 !important;
+    --bs-btn-hover-border-color: #ba081d !important;
+}
